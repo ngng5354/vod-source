@@ -1,0 +1,8 @@
+[
+    {
+        "name": "漫画",
+        "api": "https://ikan6.vip//api.php/provide/vod/",
+        "note": "需要代理"
+    },
+    ...
+]
